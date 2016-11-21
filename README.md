@@ -1,4 +1,4 @@
 # Causality
-Files and code for estimating brain conectivity
+Files and code for estimating brain conect
 
 Comment added
